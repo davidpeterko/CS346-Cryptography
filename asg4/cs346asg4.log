@@ -1,0 +1,156 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  14 APR 2015 15:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cs346asg4.tex
+(./cs346asg4.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./cs346asg4.aux)
+\openout1 = `cs346asg4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+
+LaTeX Warning: No \author given.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--49
+
+ []
+
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+
+ []
+
+
+Overfull \hbox (1.7124pt too wide) in paragraph at lines 70--82
+[]\OT1/cmr/m/n/12 Split up: $15[](\OML/cmm/m/it/12 modulo\OT1/cmr/m/n/12 1051) 
+\OMS/cmsy/m/n/12 ^^C \OT1/cmr/m/n/12 15[](\OML/cmm/m/it/12 modulo\OT1/cmr/m/n/1
+2 1051) \OMS/cmsy/m/n/12 ^^C \OT1/cmr/m/n/12 15[](\OML/cmm/m/it/12 modulo\OT1/c
+mr/m/n/12 1051) \OMS/cmsy/m/n/12 ^^C
+ []
+
+
+Overfull \hbox (4.2078pt too wide) in paragraph at lines 70--82
+[]\OT1/cmr/m/n/12 To get $15[](\OML/cmm/m/it/12 modulo\OT1/cmr/m/n/12 1051)$ we
+ take $15[](\OML/cmm/m/it/12 modulo\OT1/cmr/m/n/12 1051)$ and then square
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--82
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+[3] [4] (./cs346asg4.aux) ) 
+Here is how much of TeX's memory you used:
+ 245 strings out of 493118
+ 2786 string characters out of 6135459
+ 58906 words of memory out of 5000000
+ 3781 multiletter control sequences out of 15000+600000
+ 7329 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,19p,544b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on cs346asg4.dvi (4 pages, 7736 bytes).
